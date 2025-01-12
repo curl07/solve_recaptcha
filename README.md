@@ -1,4 +1,4 @@
-# Solve CAPTCHA Using Playwright and CaptchaSonic 🌐
+# Solve reCAPTCHA2 Using Playwright and CaptchaSonic 🌐
 
 This repository provides a Python-based solution for solving CAPTCHAs using the CaptchaSonic Chrome extension and Playwright.
 
