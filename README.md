@@ -31,12 +31,6 @@ This repository provides a Python-based solution for solving CAPTCHAs using the 
    pip install python-dotenv
    ```
 
-3. Clone this repository and navigate to the directory:
-   ```bash
-   git clone <repo_url>
-   cd <repo_directory>
-   ```
-
 4. Create a `.env` file in the project directory:
    ```env
    APIKEY=your_api_key
