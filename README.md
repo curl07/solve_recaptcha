@@ -1,5 +1,13 @@
 # Solve reCAPTCHA2 Using Playwright and CaptchaSonic 🌐
 
+* Sponsored by CaptchaSonic
+<a href="https://captchasonic.com/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/5556b8a3-4691-405c-9284-63be309ad325" 
+         alt="Presskit Card" 
+         style="width: 100%; max-width: 600px; border: none;">
+</a>
+
+
 This repository provides a Python-based solution for solving CAPTCHAs using the CaptchaSonic Chrome extension and Playwright.
 
 ## ✨ Features
